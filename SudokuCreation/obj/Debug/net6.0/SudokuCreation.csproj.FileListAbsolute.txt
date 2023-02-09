@@ -1,0 +1,17 @@
+C:\Users\HilmicanY\source\repos\SudokuProjects\SudokuCreation\bin\Debug\net6.0\SudokuCreation.deps.json
+C:\Users\HilmicanY\source\repos\SudokuProjects\SudokuCreation\bin\Debug\net6.0\SudokuCreation.dll
+C:\Users\HilmicanY\source\repos\SudokuProjects\SudokuCreation\bin\Debug\net6.0\SudokuCreation.pdb
+C:\Users\HilmicanY\source\repos\SudokuProjects\SudokuCreation\bin\Debug\net6.0\SudokuLogger.dll
+C:\Users\HilmicanY\source\repos\SudokuProjects\SudokuCreation\bin\Debug\net6.0\SudokuLogger.pdb
+C:\Users\HilmicanY\source\repos\SudokuProjects\SudokuCreation\obj\Debug\net6.0\SudokuCreation.csproj.AssemblyReference.cache
+C:\Users\HilmicanY\source\repos\SudokuProjects\SudokuCreation\obj\Debug\net6.0\SudokuCreation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HilmicanY\source\repos\SudokuProjects\SudokuCreation\obj\Debug\net6.0\SudokuCreation.AssemblyInfoInputs.cache
+C:\Users\HilmicanY\source\repos\SudokuProjects\SudokuCreation\obj\Debug\net6.0\SudokuCreation.AssemblyInfo.cs
+C:\Users\HilmicanY\source\repos\SudokuProjects\SudokuCreation\obj\Debug\net6.0\SudokuCreation.csproj.CoreCompileInputs.cache
+C:\Users\HilmicanY\source\repos\SudokuProjects\SudokuCreation\obj\Debug\net6.0\SudokuCreation.csproj.CopyComplete
+C:\Users\HilmicanY\source\repos\SudokuProjects\SudokuCreation\obj\Debug\net6.0\SudokuCreation.dll
+C:\Users\HilmicanY\source\repos\SudokuProjects\SudokuCreation\obj\Debug\net6.0\refint\SudokuCreation.dll
+C:\Users\HilmicanY\source\repos\SudokuProjects\SudokuCreation\obj\Debug\net6.0\SudokuCreation.pdb
+C:\Users\HilmicanY\source\repos\SudokuProjects\SudokuCreation\obj\Debug\net6.0\ref\SudokuCreation.dll
+C:\Users\HilmicanY\source\repos\SudokuProjects\SudokuCreation\bin\Debug\net6.0\SudokuBase.dll
+C:\Users\HilmicanY\source\repos\SudokuProjects\SudokuCreation\bin\Debug\net6.0\SudokuBase.pdb

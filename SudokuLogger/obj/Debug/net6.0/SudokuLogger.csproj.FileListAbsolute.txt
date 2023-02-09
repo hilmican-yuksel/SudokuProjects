@@ -1,0 +1,12 @@
+C:\Users\HilmicanY\source\repos\SudokuProjects\SudokuLogger\bin\Debug\net6.0\SudokuLogger.deps.json
+C:\Users\HilmicanY\source\repos\SudokuProjects\SudokuLogger\bin\Debug\net6.0\SudokuLogger.dll
+C:\Users\HilmicanY\source\repos\SudokuProjects\SudokuLogger\bin\Debug\net6.0\SudokuLogger.pdb
+C:\Users\HilmicanY\source\repos\SudokuProjects\SudokuLogger\obj\Debug\net6.0\SudokuLogger.csproj.AssemblyReference.cache
+C:\Users\HilmicanY\source\repos\SudokuProjects\SudokuLogger\obj\Debug\net6.0\SudokuLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HilmicanY\source\repos\SudokuProjects\SudokuLogger\obj\Debug\net6.0\SudokuLogger.AssemblyInfoInputs.cache
+C:\Users\HilmicanY\source\repos\SudokuProjects\SudokuLogger\obj\Debug\net6.0\SudokuLogger.AssemblyInfo.cs
+C:\Users\HilmicanY\source\repos\SudokuProjects\SudokuLogger\obj\Debug\net6.0\SudokuLogger.csproj.CoreCompileInputs.cache
+C:\Users\HilmicanY\source\repos\SudokuProjects\SudokuLogger\obj\Debug\net6.0\SudokuLogger.dll
+C:\Users\HilmicanY\source\repos\SudokuProjects\SudokuLogger\obj\Debug\net6.0\refint\SudokuLogger.dll
+C:\Users\HilmicanY\source\repos\SudokuProjects\SudokuLogger\obj\Debug\net6.0\SudokuLogger.pdb
+C:\Users\HilmicanY\source\repos\SudokuProjects\SudokuLogger\obj\Debug\net6.0\ref\SudokuLogger.dll

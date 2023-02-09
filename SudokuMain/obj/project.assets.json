@@ -1,0 +1,164 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "SudokuBase/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "SudokuLogger": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SudokuBase.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SudokuBase.dll": {}
+        }
+      },
+      "SudokuCreation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "SudokuBase": "1.0.0",
+          "SudokuLogger": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SudokuCreation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SudokuCreation.dll": {}
+        }
+      },
+      "SudokuCreationTester/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "SudokuBase": "1.0.0",
+          "SudokuCreation": "1.0.0",
+          "SudokuLogger": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SudokuCreationTester.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SudokuCreationTester.dll": {}
+        }
+      },
+      "SudokuLogger/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SudokuLogger.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SudokuLogger.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SudokuBase/1.0.0": {
+      "type": "project",
+      "path": "../SudokuBase/SudokuBase.csproj",
+      "msbuildProject": "../SudokuBase/SudokuBase.csproj"
+    },
+    "SudokuCreation/1.0.0": {
+      "type": "project",
+      "path": "../SudokuCreation/SudokuCreation.csproj",
+      "msbuildProject": "../SudokuCreation/SudokuCreation.csproj"
+    },
+    "SudokuCreationTester/1.0.0": {
+      "type": "project",
+      "path": "../SudokuCreationTester/SudokuCreationTester.csproj",
+      "msbuildProject": "../SudokuCreationTester/SudokuCreationTester.csproj"
+    },
+    "SudokuLogger/1.0.0": {
+      "type": "project",
+      "path": "../SudokuLogger/SudokuLogger.csproj",
+      "msbuildProject": "../SudokuLogger/SudokuLogger.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "SudokuCreation >= 1.0.0",
+      "SudokuCreationTester >= 1.0.0",
+      "SudokuLogger >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\HilmicanY\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\HilmicanY\\source\\repos\\SudokuProjects\\SudokuMain\\SudokuMain.csproj",
+      "projectName": "SudokuMain",
+      "projectPath": "C:\\Users\\HilmicanY\\source\\repos\\SudokuProjects\\SudokuMain\\SudokuMain.csproj",
+      "packagesPath": "C:\\Users\\HilmicanY\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HilmicanY\\source\\repos\\SudokuProjects\\SudokuMain\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\HilmicanY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\HilmicanY\\source\\repos\\SudokuProjects\\SudokuCreationTester\\SudokuCreationTester.csproj": {
+              "projectPath": "C:\\Users\\HilmicanY\\source\\repos\\SudokuProjects\\SudokuCreationTester\\SudokuCreationTester.csproj"
+            },
+            "C:\\Users\\HilmicanY\\source\\repos\\SudokuProjects\\SudokuCreation\\SudokuCreation.csproj": {
+              "projectPath": "C:\\Users\\HilmicanY\\source\\repos\\SudokuProjects\\SudokuCreation\\SudokuCreation.csproj"
+            },
+            "C:\\Users\\HilmicanY\\source\\repos\\SudokuProjects\\SudokuLogger\\SudokuLogger.csproj": {
+              "projectPath": "C:\\Users\\HilmicanY\\source\\repos\\SudokuProjects\\SudokuLogger\\SudokuLogger.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

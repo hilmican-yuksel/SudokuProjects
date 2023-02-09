@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SudokuBase/1.0.0": {
+        "dependencies": {
+          "SudokuLogger": "1.0.0"
+        },
+        "runtime": {
+          "SudokuBase.dll": {}
+        }
+      },
+      "SudokuLogger/1.0.0": {
+        "runtime": {
+          "SudokuLogger.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SudokuBase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SudokuLogger/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

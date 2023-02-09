@@ -1,0 +1,4 @@
+50 Yanılma Limiti İle, 20Deneme'nin Toplam Süresi : 00:00:08.94
+250 Yanılma Limiti İle, 20Deneme'nin Toplam Süresi : 00:00:08.38
+10000 Yanılma Limiti İle, 20Deneme'nin Toplam Süresi : 00:00:20.01
+1000 Yanılma Limiti İle, 20Deneme'nin Toplam Süresi : 00:00:11.22
